@@ -110488,5 +110488,190 @@
       }
     },
     "id": "dbcca286-cbe5-4124-ae3f-256724039050"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 1
+      }
+    },
+    "id": "913bbf84-f36a-4e3a-913f-89928d671a79"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 2.5
+      }
+    },
+    "id": "86ea957f-1314-404a-9065-6209da5753ac"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 5.25
+      }
+    },
+    "id": "69fafc52-6fde-4e04-92fc-434a62c595e2"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 10.625
+      }
+    },
+    "id": "fe46d530-b792-4434-a74f-38adf2c30d10"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 21.3125
+      }
+    },
+    "id": "eac83af7-5a8a-4c8a-9489-74757b6ec89f"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 42.65625
+      }
+    },
+    "id": "da1a4750-c0e9-4043-8875-1d9709be12a9"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 85.328125
+      }
+    },
+    "id": "66f17df5-f771-4519-959c-2080572de1ce"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 170.6640625
+      }
+    },
+    "id": "5dc5b2cc-c100-4e5c-9284-1907ee07496e"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 341.33203125
+      }
+    },
+    "id": "0df0030a-1c30-42a3-a7c5-67b197cd5d99"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 682.666015625
+      }
+    },
+    "id": "4ae1288b-fe63-4012-a386-b89e0663f4d5"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 1365.3330078125
+      }
+    },
+    "id": "5e8578ba-a841-496e-bfcb-0105a8d57dc2"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 2730.666015625
+      }
+    },
+    "id": "21692694-4223-40d5-8abb-a538cbbe3f80"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/componentTree.js",
+    "slice": {
+      "parent": {
+        "id": "body",
+        "index": 1.25
+      }
+    },
+    "id": "913bbf84-f36a-4e3a-913f-89928d671a79"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "slice": {
+      "property": {
+        "callbacks": {
+          "onClick": []
+        }
+      }
+    },
+    "id": "e7061e40-ae37-465e-b6ef-a500e6063fa6"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "slice": {
+      "property": {
+        "callbacks": {
+          "onClick": []
+        }
+      }
+    },
+    "id": "e35a93fa-ed4a-4f3c-8c4f-4266bd5503d6"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "slice": {
+      "property": {
+        "callbacks": {
+          "onClick": []
+        }
+      }
+    },
+    "id": "e7142e39-78e3-4892-bfee-a176824d3922"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "slice": {
+      "property": {
+        "callbacks": {
+          "onClick": []
+        }
+      }
+    },
+    "id": "b65c0ed3-58b6-4808-8fbf-30d0bc0079c1"
+  },
+  {
+    "type": "PATCH$$@atrilabs/app-design-forest/lib/callbackHandlerTree.js",
+    "slice": {
+      "property": {
+        "callbacks": {
+          "onClick": []
+        }
+      }
+    },
+    "id": "e625935f-2cac-46ef-9cb4-00d3b668de1a"
   }
 ]

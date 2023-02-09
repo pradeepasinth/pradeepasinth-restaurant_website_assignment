@@ -20,7 +20,7 @@
     }
   },
   "publicUrlAssetMap": {
-    "/app-assets": "../assets"
+    "/app-assets": "..\\assets"
   },
   "organizationName": "Atri-Apps",
   "projectName": "restaurant_website"

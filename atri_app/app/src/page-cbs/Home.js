@@ -71,14 +71,7 @@ export function useButton2Cb() {
 export function useTextBox1Cb() {
 	const onClick = useCallback(callbackFactory("TextBox1", "Home", "/", "onClick", 
 			{
-  "handlers": [
-    {
-      "navigate": {
-        "type": "internal",
-        "url": "/"
-      }
-    }
-  ],
+  "handlers": [],
   "actions": [
     {
       "type": "do_nothing"
@@ -90,14 +83,7 @@ export function useTextBox1Cb() {
 export function useTextBox2Cb() {
 	const onClick = useCallback(callbackFactory("TextBox2", "Home", "/", "onClick", 
 			{
-  "handlers": [
-    {
-      "navigate": {
-        "type": "internal",
-        "url": "/about"
-      }
-    }
-  ],
+  "handlers": [],
   "actions": [
     {
       "type": "do_nothing"
@@ -109,14 +95,7 @@ export function useTextBox2Cb() {
 export function useTextBox3Cb() {
 	const onClick = useCallback(callbackFactory("TextBox3", "Home", "/", "onClick", 
 			{
-  "handlers": [
-    {
-      "navigate": {
-        "type": "internal",
-        "url": "/menu"
-      }
-    }
-  ],
+  "handlers": [],
   "actions": [
     {
       "type": "do_nothing"
@@ -128,11 +107,7 @@ export function useTextBox3Cb() {
 export function useTextBox4Cb() {
 	const onClick = useCallback(callbackFactory("TextBox4", "Home", "/", "onClick", 
 			{
-  "handlers": [
-    {
-      "sendEventData": true
-    }
-  ],
+  "handlers": [],
   "actions": [
     {
       "type": "do_nothing"
@@ -175,11 +150,7 @@ export function useImage2Cb() {
 export function useTextBox6Cb() {
 	const onClick = useCallback(callbackFactory("TextBox6", "Home", "/", "onClick", 
 			{
-  "handlers": [
-    {
-      "sendEventData": true
-    }
-  ],
+  "handlers": [],
   "actions": [
     {
       "type": "do_nothing"

@@ -442,14 +442,7 @@ const desktopModeProps = {
         "text": "Home"
       },
       "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "internal",
-              "url": "/"
-            }
-          }
-        ]
+        "onClick": []
       }
     },
     "TextBox2": {
@@ -457,14 +450,7 @@ const desktopModeProps = {
         "text": "About"
       },
       "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "internal",
-              "url": "/about"
-            }
-          }
-        ]
+        "onClick": []
       }
     },
     "TextBox3": {
@@ -472,14 +458,7 @@ const desktopModeProps = {
         "text": "Menu"
       },
       "callbacks": {
-        "onClick": [
-          {
-            "navigate": {
-              "type": "internal",
-              "url": "/menu"
-            }
-          }
-        ]
+        "onClick": []
       }
     },
     "TextBox4": {
@@ -487,11 +466,7 @@ const desktopModeProps = {
         "text": "Pages"
       },
       "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
+        "onClick": []
       }
     },
     "TextBox6": {
@@ -499,11 +474,7 @@ const desktopModeProps = {
         "text": "Cart"
       },
       "callbacks": {
-        "onClick": [
-          {
-            "sendEventData": true
-          }
-        ]
+        "onClick": []
       }
     },
     "Button1": {

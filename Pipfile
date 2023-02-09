@@ -15,7 +15,7 @@ jsonpickle = "*"
 python-multipart = "*"
 atri-utils = "*"
 sendgrid = "*"
-atri = {version = "*", index = "testpypi"}
+atri = "==0.0.78"
 
 [dev-packages]
 
